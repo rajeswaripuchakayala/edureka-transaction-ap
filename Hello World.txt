@@ -1,1 +1,37 @@
-Hi, the text is displaying from Notepad
+1.Create a repository called “edureka-transaction-api”
+
+https://github.com/rajeswaripuchakayala/edureka-transaction-ap
+
+2.Clone it
+
+git clone "https://github.com/rajeswaripuchakayala/edureka-transaction-ap.git"
+
+3.Check the current branch
+
+git branch
+
+4.Add few files
+
+Assignment1.html
+Hello World.txt
+
+5.Commit them with message
+
+git commit -m "first commit"
+On branch main
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Assignment1.html
+        Hello World.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+6.Push them in branch
+
+git push -u origin main
+
+7.Check last commits
+
